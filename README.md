@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&text=%20OzlltoCat%20&&animation=blink)
 #### Wellcome to OzllWorld :smile:
 ---
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=qkrp0215)](https://github.com/qkrp0215)
-
+[![*'s github stats](https://github-readme-stats.vercel.app/api?username=qkrp0215)](https://github.com/qkrp0215) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrp0215&layout=compact)](https://github.com/qkrp0215/github-readme-stats)
 ---
 ### Subject
 |Study|Check|
@@ -13,6 +13,6 @@
 |java|:black_square_button:|
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qkrp0215 &layout=compact)](https://github.com/qkrp0215/githubreadme-stats)
+
 
 
